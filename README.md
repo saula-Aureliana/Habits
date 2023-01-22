@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
+- [Visite o projeto Online] (https://saula-aureliana.github.io/habits)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/jfnz2g93kq3IjpP4mW8M9C/Habits-(e)-(Community)?node-id=6%3A910&t=492cwwvtWe0jetyn-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
